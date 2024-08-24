@@ -1,0 +1,12 @@
+{
+  "name": "@serum-enterprises/schema",
+  "version": "1.0.0-beta.0",
+  "description": "A Schema Validation Library similar to Joi.dev written in TS",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philipp Steckenbauer",
+  "license": "MIT"
+}
